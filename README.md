@@ -32,5 +32,11 @@ npm i
 npm run dev
 ```
 
+6. ##### Start json db server:
+
+```
+json-server ./database/db.json --port 3001
+```
+
 ### Contributing
 Contributions are welcome! Feel free to open issues and pull requests to enhance this project
