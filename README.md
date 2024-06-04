@@ -1,42 +1,47 @@
 # Vue 3 and Quasar CRUD App
-A simple project in Quasar and Vue 3 Composition.
+
+A streamlined project built with the Quasar framework and Vue 3 Composition API.
 
 ## Features
-Create, Read, Update, and Delete records.<br>
-Clean and responsive user interface.<br>
-Vue 3 with the Quasar framework for a modern front-end.
 
-### Want to try it out or change it for yourself? Follow the commands below:
+- Create, Read, Update, and Delete (CRUD) operations.
+- Clean and responsive user interface.
+- Utilizes Vue 3 with the Quasar framework for a modern and efficient front-end development experience.
 
-1. ##### Clone the repo:
+## Getting Started
 
-```
-git clone git@github.com:yanbrasiliano/vue-quasar-app.git
-```
+Want to try it out or customize it for your needs? Follow the commands below:
 
-3. ##### Open the project folder:
+1. #### Clone the repository:
 
-```
-cd /vue-quasar-app
-```
+    ```bash
+    git clone git@github.com:yanbrasiliano/vue-quasar-app.git
+    ```
 
-4. ##### Install packages and dependencies:
+2. #### Navigate to the project folder:
 
-```
-npm i
-```
+    ```bash
+    cd vue-quasar-app
+    ```
 
-5. ##### Start a local dev server:
+3. #### Install packages and dependencies:
 
-```
-npm run dev
-```
+    ```bash
+    npm install
+    ```
 
-6. ##### Start json db server:
+4. #### Start the local development server:
 
-```
-json-server ./database/db.json --port 3001
-```
+    ```bash
+    npm run dev
+    ```
 
-### Contributing
-Contributions are welcome! Feel free to open issues and pull requests to enhance this project
+5. #### Start the JSON server for the database:
+
+    ```bash
+    json-server ./database/db.json --port 3001
+    ```
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues and submit pull requests to enhance this project.
